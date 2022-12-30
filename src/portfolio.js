@@ -7,11 +7,10 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
-  description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+  title: "Luna Studios",
+  description: "A passionate team with years of experience in web3.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Luna studios",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -19,11 +18,11 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Luna Studios",
+  logo_name: "Luna_Studios",
+  nickname: "Web3 experts",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate and precise team with years of development expereince. ",
   resumeLink:
     "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
@@ -78,7 +77,7 @@ const socialMediaLinks = [
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
+    link: "https://www.instagram.com/0x_luna_studios/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -203,6 +202,13 @@ const skills = {
         {
           skillName: "Flutter",
           fontAwesomeClassname: "simple-icons:flutter",
+          style: {
+            color: "#02569B",
+          },
+        },
+        {
+          skillName: "Solidity",
+          fontAwesomeClassname: "simple-icons:solidity",
           style: {
             color: "#02569B",
           },
@@ -638,7 +644,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "Our previous projects makes use of vast variety of web3 technology tools. Luna experts have had the honour to participate in tons of exciting and succesful projects! Is yours next?",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -697,7 +703,7 @@ const publications = {
 // Contact Page
 const contactPageData = {
   contactSection: {
-    title: "Contact Me",
+    title: "Contact Us",
     profile_image_path: "animated_ashutosh.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
@@ -710,15 +716,14 @@ const contactPageData = {
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
-    title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+    title: "Email:",
+    subtitle: "edenkozlov@gmail.com",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8320758513",
+    subtitle: "+514 710 2555",
   },
 };
 
