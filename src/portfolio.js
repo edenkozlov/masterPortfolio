@@ -212,8 +212,8 @@ const skills = {
           },
         },
         {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
+          skillName: "Photoshop",
+          fontAwesomeClassname: "logos:adobe-photoshop",
           style: {
             color: "#000000",
           },
