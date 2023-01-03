@@ -97,8 +97,8 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building Custom NFT minting DApps",
-        "⚡ Deployment of your own custom token",
-        "⚡ Custom NFT specialized smart contracts",
+        "⚡ Outstanding gas optimization for optimal user experience",
+        "⚡ Custom functions using JavaScript react",
       ],
       softwareSkills: [
         {
@@ -186,8 +186,9 @@ const skills = {
       fileName: "DesignImg",
       skills: [
         "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
+        "⚡ Building of logos, backgrounds, interactive designs",
         "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ ",
       ],
       softwareSkills: [
         {
@@ -563,35 +564,31 @@ const publications = {
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Jimmy Zhāng ⭐️⭐️⭐️⭐️⭐️",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      name: "Jimmy Fo ⭐️⭐️⭐️⭐️⭐️",
+      createdAt: "2022-08-06T16:26:54Z",
+      description:
+        "My developer communicated very well with me to get my desired look, Thank you!😊",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      name: "Robert88 ⭐️⭐️⭐️⭐️⭐️",
+      createdAt: "2022-09-23T16:26:54Z",
+      description:
+        "If youre looking for a great team you can stop! Definately recommending this studio to others.",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      name: "Omar Khan ⭐️⭐️⭐️⭐️⭐️",
+      createdAt: "2022-10-14T16:26:54Z",
+      description:
+        "Took care of everything for me and my partner. We wouldn't be able to get to where we am without them.",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      name: "Ben honnald⭐️⭐️⭐️⭐️⭐️",
+      createdAt: "2022-11-29T16:26:54Z",
+      description:
+        "Can't belive how quick and clean I received my DApp and smart contract. Great overall experience",
     },
   ],
 };
