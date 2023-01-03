@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -40,24 +40,6 @@ const socialMediaLinks = [
   // instagram: "https://www.instagram.com/layman_brother/"
 
   {
-    name: "Github",
-    link: "https://github.com/ashutosh1919",
-    fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
-    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
-  },
-  {
-    name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-    fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
-    backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
-  },
-  {
-    name: "YouTube",
-    link: "https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
-  {
     name: "Gmail",
     link: "mailto:ashutoshhathidara98@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
@@ -86,42 +68,27 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Custom Smart Contracts",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Building responsive smart contracts with complex functions",
+        "⚡ Deployment of your own custom token",
+        "⚡ Custom NFT specialized smart contracts",
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "Solidity",
+          fontAwesomeClassname: "logos-solidity",
           style: {
             backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          skillName: "Javascript",
+          fontAwesomeClassname: "logos-javascript",
           style: {
             backgroundColor: "white",
             color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
           },
         },
       ],
@@ -130,9 +97,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building Custom NFT minting DApps",
+        "⚡ Deployment of your own custom token",
+        "⚡ Custom NFT specialized smart contracts",
       ],
       softwareSkills: [
         {
@@ -723,7 +690,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+514 710 2555",
+    subtitle: "+1 (514) 710 2555",
   },
 };
 
