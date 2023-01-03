@@ -23,9 +23,8 @@ const greeting = {
   nickname: "Web3 experts",
   subTitle:
     "A passionate and precise team with years of development expereince. ",
-  resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  resumeLink: "https://calendly.com/0xlunastudios/30min",
+  portfolio_repository: "https://calendly.com/0xlunastudios/30min",
   githubProfile: "https://github.com/ashutosh1919",
 };
 
