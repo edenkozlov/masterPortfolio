@@ -559,7 +559,7 @@ const publications = {
       name: "Adam Lang ⭐️⭐️⭐️⭐️⭐️",
       createdAt: "2022-06-12T16:26:54Z",
       description:
-        "Absoluelty the best around! Cant thank the Studio enough, great work! ",
+        "Absolutely the best around! Cant thank the Studio enough, great work! ",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
@@ -580,7 +580,7 @@ const publications = {
       name: "Omar Khan ⭐️⭐️⭐️⭐️⭐️",
       createdAt: "2022-10-14T16:26:54Z",
       description:
-        "Took care of everything for me and my partner. We wouldn't be able to get to where we am without them.",
+        "Took care of everything for me and my partner. We wouldn't be able to get to where we are without them.",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
