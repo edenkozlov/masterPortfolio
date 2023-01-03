@@ -598,7 +598,7 @@ const contactPageData = {
     title: "Contact Us",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "We are available on the social media platforms bellow. You may also book an appointment with one of our experts, we will get back to you within 24h!",
+      "We are available on the social media platforms listed below. You may also book an appointment with one of our experts, we will get back to you within 24h!",
   },
   blogSection: {
     title: "Thank you",
