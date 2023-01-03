@@ -12,7 +12,7 @@ const seo = {
   og: {
     title: "Luna studios",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://0x-luna-studios.com/#/home",
   },
 };
 
@@ -22,7 +22,7 @@ const greeting = {
   logo_name: "Luna_Studios",
   nickname: "Web3 experts",
   subTitle:
-    "A passionate and precise team with years of development expereince. ",
+    "A passionate and precise team with years of development experience. ",
   resumeLink: "https://calendly.com/0xlunastudios/30min",
   portfolio_repository: "https://calendly.com/0xlunastudios/30min",
   githubProfile: "https://github.com/ashutosh1919",
@@ -46,7 +46,7 @@ const socialMediaLinks = [
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/ashutosh_1919",
+    link: "https://twitter.com/0x_luna_studios",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
