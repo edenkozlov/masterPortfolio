@@ -616,8 +616,7 @@ const projectsHeader = {
 
 const publicationsHeader = {
   title: "Testimonies",
-  description:
-    "I have worked on and published a few research papers and publications of my own.",
+  description: "Some of our increadible clients' reviews.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -625,15 +624,14 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      name: "Adam Lang ⭐️⭐️⭐️⭐️⭐️",
+      createdAt: "2022-06-12T16:26:54Z",
+      description:
+        "Absoluelty the best around! Cant thank the Studio enough, great work! ",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
+      name: "Jimmy Zhāng ⭐️⭐️⭐️⭐️⭐️",
       createdAt: "2020-03-06T16:26:54Z",
       description: "Paper Written on Artificial Intelligence published in xyz ",
       url:
