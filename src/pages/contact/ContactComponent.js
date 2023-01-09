@@ -46,7 +46,7 @@ class Contact extends Component {
                 <SocialMedia theme={theme} />
                 <div className="resume-btn-div">
                   <Button
-                    text="Book an Appointment"
+                    text="Order on Fiverr!"
                     newTab={true}
                     href={greeting.resumeLink}
                     theme={theme}

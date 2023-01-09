@@ -23,7 +23,7 @@ const greeting = {
   nickname: "Web3 experts",
   subTitle:
     "A passionate and precise team with years of development experience. ",
-  resumeLink: "https://calendly.com/0xlunastudios/30min",
+  resumeLink: "https://www.fiverr.com/share/vxYBqZ",
   portfolio_repository: "https://calendly.com/0xlunastudios/30min",
   githubProfile: "https://github.com/ashutosh1919",
 };
@@ -51,16 +51,16 @@ const socialMediaLinks = [
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
   {
-    name: "Facebook",
-
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
-  {
     name: "Instagram",
     link: "https://www.instagram.com/0x_luna_studios/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  },
+  {
+    name: "Fiverr",
+    link: "https://www.fiverr.com/share/vxYBqZ",
+    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/twitter?style=brands
+    backgroundColor: "#00b22d", // Reference https://simpleicons.org/?q=twitter
   },
 ];
 
